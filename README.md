@@ -14,7 +14,7 @@ To be able to preemptively assess which students may need the most attention is,
 
 ## Process ##
 
-The target value is `G3`, which, according to the accompanying paper of the dataset, can be binned into a passing or failing classification. If `G3` is greater than or equal to 10, then the student passes. Otherwise, she fails. Likewise, the `G1` and `G2` features are binned in the same manner.
+The target value is `G3`, which, according to the accompanying paper of the dataset, can be binned into a passing or failing classification. If `G3` is greater than or equal to 10, then the student passes. Otherwise, he/she fails. Likewise, the `G1` and `G2` features are binned in the same manner.
 
 The data can be reduced to 4 fundamental features, in order of importance:
 1. `G2` score
