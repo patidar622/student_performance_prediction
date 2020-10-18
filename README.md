@@ -1,10 +1,4 @@
 # student_performance_prediction using python
-## Preface ##
-
-Having spent the past few months studying quite a bit about machine learning and statistical inference, I wanted a more serious and challenging task than simply working and re-working the examples that many books and blogs make use of. After all, there's only so many times you can look at the Iris dataset and be surprised. I wanted to work on something that was completely new to me in terms of the data, to see if I could start with the unknown and chart my way out with success.
-
-
-**Accompanying Paper:** [Using Data Mining to Predict Secondary School Student Performance](http://www3.dsi.uminho.pt/pcortez/student.pdf)
 
 ## Objective ##
 
